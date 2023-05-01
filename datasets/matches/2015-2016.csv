@@ -1,0 +1,64 @@
+Date,Jour,Comp,Tour,Tribune,Résultat,Équipe,Adversaire,Début,Pos,Min,Buts,PD,PénM,PénT,Tirs,TC,CJ,CR,Fte,Ftp,HJ,Ctr,TclR,Int,CSC,Préussi,Pcon,Rapport de match
+2015-08-23,Dim,La Liga,Journée 1,Extérieur,N 0–0,Real Madrid,Sporting Gijón,Y,AM,90,0,0,0,0,10,4,0,0,0,0,1,3,1,0,0,0,0,Rapport de match
+2015-08-29,Sam,La Liga,Journée 2,Domicile,V 5–0,Real Madrid,Betis,Y,AM,90,0,0,0,0,6,5,0,0,1,3,1,3,1,0,0,0,0,Rapport de match
+2015-09-04,Ven,Matchs amicaux (H),Matchs amicaux (H),Domicile,D 0–1,pt Portugal,fr France,Y*,FW,66,0,0,0,0,,,0,0,,,,,,,0,,,Rapport de match
+2015-09-07,Lun,Qualifications Euro,Phase de groupe,Extérieur,V 1–0,pt Portugal,al Albanie,Y*,FW,90,0,0,0,0,3,2,0,0,1,1,4,0,0,0,0,0,0,Rapport de match
+2015-09-12,Sam,La Liga,Journée 3,Extérieur,V 6–0,Real Madrid,Espanyol,Y,AM,90,5,1,1,1,7,5,0,0,1,2,2,3,0,0,0,0,0,Rapport de match
+2015-09-15,Mar,Champions Lg,Phase de groupe,Domicile,V 4–0,es Real Madrid,ua Shakhtar,Y,AM,90,3,0,2,2,10,3,0,0,2,2,1,3,0,0,0,0,0,Rapport de match
+2015-09-19,Sam,La Liga,Journée 4,Domicile,V 1–0,Real Madrid,Granada,Y,AM,90,0,0,0,0,8,5,0,0,0,0,1,0,0,0,0,0,0,Rapport de match
+2015-09-23,Mer,La Liga,Journée 5,Extérieur,V 2–1,Real Madrid,Athletic Club,Y,AM,90,0,0,0,0,4,1,1,0,1,0,1,1,0,1,0,0,0,Rapport de match
+2015-09-26,Sam,La Liga,Journée 6,Domicile,N 0–0,Real Madrid,Málaga,Y,FW,90,0,0,0,0,14,2,1,0,1,1,2,2,0,0,0,0,0,Rapport de match
+2015-09-30,Mer,Champions Lg,Phase de groupe,Extérieur,V 2–0,es Real Madrid,se Malmö,Y*,FW,90,2,0,0,0,12,7,0,0,1,1,3,1,0,0,0,0,0,Rapport de match
+2015-10-04,Dim,La Liga,Journée 7,Extérieur,N 1–1,Real Madrid,Atlético Madrid,Y,FW,90,0,0,0,0,6,1,0,0,1,3,0,3,0,1,0,0,0,Rapport de match
+2015-10-08,Jeu,Qualifications Euro,Phase de groupe,Domicile,V 1–0,pt Portugal,dk Danemark,Y*,FW,90,0,0,0,0,4,3,0,0,1,1,1,1,0,0,0,0,0,Rapport de match
+2015-10-17,Sam,La Liga,Journée 8,Domicile,V 3–0,Real Madrid,Levante,Y,FW,90,1,1,0,0,6,2,0,0,1,2,1,1,0,0,0,0,0,Rapport de match
+2015-10-21,Mer,Champions Lg,Phase de groupe,Extérieur,N 0–0,es Real Madrid,fr Paris S-G,Y,FW,90,0,0,0,0,6,2,0,0,1,2,0,0,0,1,0,0,0,Rapport de match
+2015-10-24,Sam,La Liga,Journée 9,Extérieur,V 3–1,Real Madrid,Celta Vigo,Y,FW,90,1,0,0,0,7,4,0,0,0,0,1,1,0,0,0,0,0,Rapport de match
+2015-10-31,Sam,La Liga,Journée 10,Domicile,V 3–1,Real Madrid,Las Palmas,Y,FW,90,1,0,0,0,5,3,0,0,0,0,3,0,1,0,0,0,0,Rapport de match
+2015-11-03,Mar,Champions Lg,Phase de groupe,Domicile,V 1–0,es Real Madrid,fr Paris S-G,Y,FW,90,0,0,0,0,3,1,0,0,1,1,0,0,0,1,0,0,0,Rapport de match
+2015-11-08,Dim,La Liga,Journée 11,Extérieur,D 2–3,Real Madrid,Sevilla,Y,FW,90,0,0,0,0,5,1,0,0,0,0,0,0,1,0,0,0,0,Rapport de match
+2015-11-21,Sam,La Liga,Journée 12,Domicile,D 0–4,Real Madrid,Barcelona,Y,AM,90,0,0,0,0,2,2,0,0,2,2,1,1,1,1,0,0,0,Rapport de match
+2015-11-25,Mer,Champions Lg,Phase de groupe,Extérieur,V 4–3,es Real Madrid,ua Shakhtar,Y,FW,90,2,1,0,0,10,5,0,0,2,0,0,0,0,0,0,0,0,Rapport de match
+2015-11-29,Dim,La Liga,Journée 13,Extérieur,V 2–0,Real Madrid,Eibar,Y,FW,90,1,0,1,1,9,2,0,0,0,0,1,1,0,0,0,0,0,Rapport de match
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2015-12-05,Sam,La Liga,Journée 14,Domicile,V 4–1,Real Madrid,Getafe,Y,AM,90,1,1,0,0,5,2,0,0,0,1,1,1,2,0,0,0,0,Rapport de match
+2015-12-08,Mar,Champions Lg,Phase de groupe,Domicile,V 8–0,es Real Madrid,se Malmö,Y,FW,90,4,1,0,0,10,6,0,0,0,1,1,3,0,0,0,0,0,Rapport de match
+2015-12-13,Dim,La Liga,Journée 15,Extérieur,D 0–1,Real Madrid,Villarreal,Y,FW,90,0,0,0,0,5,0,0,0,2,0,0,1,0,0,0,0,0,Rapport de match
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2015-12-20,Dim,La Liga,Journée 16,Domicile,V 10–2,Real Madrid,Rayo Vallecano,Y,FW,90,2,1,1,1,7,3,0,0,0,0,2,1,0,0,0,0,0,Rapport de match
+2015-12-30,Mer,La Liga,Journée 17,Domicile,V 3–1,Real Madrid,Real Sociedad,Y,FW,90,2,0,1,2,8,3,0,0,4,0,1,4,0,0,0,0,0,Rapport de match
+2016-01-03,Dim,La Liga,Journée 18,Extérieur,N 2–2,Real Madrid,Valencia,Y,FW,90,0,1,0,0,2,0,0,0,0,2,1,0,0,1,0,0,0,Rapport de match
+2016-01-09,Sam,La Liga,Journée 19,Domicile,V 5–0,Real Madrid,La Coruña,Y,AM,90,0,1,0,0,10,3,0,0,0,1,3,1,1,0,0,0,0,Rapport de match
+2016-01-17,Dim,La Liga,Journée 20,Domicile,V 5–1,Real Madrid,Sporting Gijón,Y,FW,90,2,0,0,0,5,3,0,0,1,3,3,0,0,0,0,0,0,Rapport de match
+2016-01-24,Dim,La Liga,Journée 21,Extérieur,N 1–1,Real Madrid,Betis,Y,AM,90,0,0,0,0,4,1,0,0,1,4,3,2,0,0,0,0,0,Rapport de match
+2016-01-31,Dim,La Liga,Journée 22,Domicile,V 6–0,Real Madrid,Espanyol,Y,FW,90,3,0,1,1,5,4,0,0,0,3,2,3,1,0,0,1,0,Rapport de match
+2016-02-07,Dim,La Liga,Journée 23,Extérieur,V 2–1,Real Madrid,Granada,Y,FW,90,0,0,0,0,3,0,0,0,0,0,1,1,1,1,0,0,0,Rapport de match
+2016-02-13,Sam,La Liga,Journée 24,Domicile,V 4–2,Real Madrid,Athletic Club,Y,FW,90,2,1,0,0,7,5,0,0,0,2,2,1,0,0,0,0,0,Rapport de match
+2016-02-17,Mer,Champions Lg,Huitièmes de finale,Extérieur,V 2–0,es Real Madrid,it Roma,Y,FW,89,1,0,0,0,6,1,0,0,1,3,0,3,2,0,0,0,0,Rapport de match
+2016-02-21,Dim,La Liga,Journée 25,Extérieur,N 1–1,Real Madrid,Málaga,Y,FW,90,1,0,0,1,4,3,0,0,1,1,2,1,0,0,0,1,0,Rapport de match
+2016-02-27,Sam,La Liga,Journée 26,Domicile,D 0–1,Real Madrid,Atlético Madrid,Y,FW,90,0,0,0,0,7,3,0,0,0,0,1,7,0,1,0,0,0,Rapport de match
+2016-03-02,Mer,La Liga,Journée 27,Extérieur,V 3–1,Real Madrid,Levante,Y,AM,90,1,1,1,1,9,4,0,0,1,0,2,2,0,0,0,0,0,Rapport de match
+2016-03-05,Sam,La Liga,Journée 28,Domicile,V 7–1,Real Madrid,Celta Vigo,Y,FW,90,4,0,0,0,7,6,0,0,0,1,0,0,0,0,0,0,0,Rapport de match
+2016-03-08,Mar,Champions Lg,Huitièmes de finale,Domicile,V 2–0,es Real Madrid,it Roma,Y,FW,90,1,1,0,0,14,3,0,0,1,1,2,0,0,0,0,0,0,Rapport de match
+2016-03-13,Dim,La Liga,Journée 29,Extérieur,V 2–1,Real Madrid,Las Palmas,Y,FW,90,0,0,0,0,4,2,0,0,1,0,0,0,0,0,0,0,0,Rapport de match
+2016-03-20,Dim,La Liga,Journée 30,Domicile,V 4–0,Real Madrid,Sevilla,Y,FW,90,1,0,0,1,9,5,0,0,0,2,5,0,0,0,0,0,0,Rapport de match
+2016-03-25,Ven,Matchs amicaux (H),Matchs amicaux (H),Domicile,D 0–1,pt Portugal,bg Bulgarie,Y,,90,0,0,0,1,,,0,0,,,,,,,0,,,Rapport de match
+2016-03-29,Mar,Matchs amicaux (H),Matchs amicaux (H),Domicile,V 2–1,pt Portugal,be Belgique,Y*,FW,59,1,0,0,0,,,0,0,,,,,,,0,,,Rapport de match
+2016-04-02,Sam,La Liga,Journée 31,Extérieur,V 2–1,Real Madrid,Barcelona,Y,FW,90,1,0,0,0,5,2,0,0,1,2,1,1,1,0,0,0,0,Rapport de match
+2016-04-06,Mer,Champions Lg,Quarts de finale,Extérieur,D 0–2,es Real Madrid,de Wolfsburg,Y,FW,90,0,0,0,0,6,1,0,0,0,2,2,1,0,0,0,0,0,Rapport de match
+2016-04-09,Sam,La Liga,Journée 32,Domicile,V 4–0,Real Madrid,Eibar,Y,FW,90,1,1,0,0,7,3,0,0,0,0,2,0,0,0,0,0,0,Rapport de match
+2016-04-12,Mar,Champions Lg,Quarts de finale,Domicile,V 3–0,es Real Madrid,de Wolfsburg,Y,FW,90,3,0,0,0,5,3,1,0,1,1,0,2,0,0,0,0,0,Rapport de match
+2016-04-16,Sam,La Liga,Journée 33,Extérieur,V 5–1,Real Madrid,Getafe,Y,FW,90,1,0,0,0,8,2,0,0,0,1,0,0,0,0,0,0,0,Rapport de match
+2016-04-20,Mer,La Liga,Journée 34,Domicile,V 3–0,Real Madrid,Villarreal,Y,FW,90,0,0,0,0,7,2,0,0,2,1,1,0,0,0,0,0,0,Rapport de match
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2016-05-04,Mer,Champions Lg,Demi-finales,Domicile,V 1–0,es Real Madrid,eng Manchester City,Y,FW,90,0,0,0,0,7,3,0,0,2,2,2,1,0,0,0,0,0,Rapport de match
+2016-05-08,Dim,La Liga,Journée 37,Domicile,V 3–2,Real Madrid,Valencia,Y,FW,78,2,0,0,0,3,3,0,0,0,1,2,2,0,2,0,0,0,Rapport de match
+2016-05-14,Sam,La Liga,Journée 38,Extérieur,V 2–0,Real Madrid,La Coruña,Y,FW,45,2,0,0,0,7,2,0,0,0,0,0,1,0,0,0,0,0,Rapport de match
+2016-05-28,Sam,Champions Lg,Finale,Domicile,N 1 (5)–1 (3),es Real Madrid,es Atlético Madrid,Y,FW,120,0,0,0,0,3,2,0,0,0,2,0,3,0,2,0,0,0,Rapport de match
+2016-06-08,Mer,Matchs amicaux (H),Matchs amicaux (H),Domicile,V 7–0,pt Portugal,ee Estonie,Y*,FW,45,2,0,0,0,,,0,0,,,,,,,0,,,Rapport de match
+2016-06-14,Mar,UEFA Euro,Phase de groupe,Terrain neutre,N 1–1,pt Portugal,is Islande,Y*,FW,90,0,0,0,0,10,1,0,0,1,3,3,1,0,0,0,0,0,Rapport de match
+2016-06-18,Sam,UEFA Euro,Phase de groupe,Terrain neutre,N 0–0,pt Portugal,at Autriche,Y*,FW,90,0,0,0,1,10,3,0,0,1,2,3,0,0,0,0,0,0,Rapport de match
+2016-06-22,Mer,UEFA Euro,Phase de groupe,Terrain neutre,N 3–3,pt Portugal,hu Hongrie,Y*,FW,90,2,1,0,0,10,3,0,0,0,2,4,0,0,0,0,0,0,Rapport de match
+2016-06-25,Sam,UEFA Euro,Huitièmes de finale,Terrain neutre,V 1–0,pt Portugal,hr Croatie,Y*,FW,120,0,1,0,0,1,1,0,0,3,2,1,0,0,0,0,0,0,Rapport de match
+2016-06-30,Jeu,UEFA Euro,Quarts de finale,Terrain neutre,N 1 (5)–1 (3),pt Portugal,pl Pologne,Y*,FW,120,0,0,0,0,5,1,0,0,0,3,0,0,0,1,0,0,0,Rapport de match
+,,,,,40-12-7,,,59/59,,5242,56,14,8,13,362,149,3,0,41,70,77,67,13,13,0,2,0,

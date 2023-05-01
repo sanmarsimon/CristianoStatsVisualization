@@ -1,0 +1,51 @@
+Date,Jour,Comp,Tour,Tribune,Résultat,Équipe,Adversaire,Début,Pos,Min,Buts,PD,PénM,PénT,Tirs,TC,CJ,CR,Touches,Tcl,Int,Balles contrées,xG,npxG,xAG,AMT,AMB,Cmp,Att,Cmp%,PrgP,Balle au pied,PrgC,Att,Succ,Rapport de match
+2018-08-18,Sam,Serie A,Journée 1,Extérieur,V 3–2,Juventus,Chievo,Y,FWLW,90,0,0,0,0,9,4,0,0,52,0,0,0,0.8,0.8,0.3,8,0,32,37,86.5,3,36,3,4,0,Rapport de match
+2018-08-25,Sam,Serie A,Journée 2,Domicile,V 2–0,Juventus,Lazio,Y,LW,90,0,1,0,0,6,4,0,0,45,1,0,0,0.4,0.4,0.6,6,1,27,31,87.1,6,33,7,2,2,Rapport de match
+2018-09-01,Sam,Serie A,Journée 3,Extérieur,V 2–1,Juventus,Parma,Y,LWFW,90,0,0,0,0,8,1,0,0,58,0,0,0,0.4,0.4,0.1,7,0,37,46,80.4,8,39,6,3,2,Rapport de match
+2018-09-16,Dim,Serie A,Journée 4,Domicile,V 2–1,Juventus,Sassuolo,Y,FW,90,2,0,0,0,9,3,0,0,40,0,0,0,2.0,2.0,0.0,4,0,19,26,73.1,4,23,7,2,2,Rapport de match
+2018-09-19,Mer,Champions Lg,Phase de groupe,Extérieur,V 2–0,it Juventus,es Valencia,Y,LW,28,0,0,0,0,2,0,0,1,15,0,0,0,0.1,0.1,0.6,3,0,9,11,81.8,2,8,2,0,0,Rapport de match
+2018-09-23,Dim,Serie A,Journée 5,Extérieur,V 2–0,Juventus,Frosinone,Y,LW,90,1,0,0,0,10,4,0,0,63,1,0,1,1.5,1.5,0.1,8,1,38,46,82.6,7,49,6,3,2,Rapport de match
+2018-09-26,Mer,Serie A,Journée 6,Domicile,V 2–0,Juventus,Bologna,Y,FW,90,0,1,0,0,4,1,0,0,74,0,0,1,0.2,0.2,0.2,7,1,58,63,92.1,5,45,7,2,1,Rapport de match
+2018-09-29,Sam,Serie A,Journée 7,Domicile,V 3–1,Juventus,Napoli,Y,FW,90,0,2,0,0,8,5,0,0,46,0,0,1,0.9,0.9,0.7,8,3,27,30,90.0,3,30,4,4,1,Rapport de match
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-10-06,Sam,Serie A,Journée 8,Extérieur,V 2–0,Juventus,Udinese,Y,LWFW,90,1,0,0,0,7,3,0,0,54,0,1,0,0.7,0.7,0.1,6,0,34,41,82.9,6,40,4,0,0,Rapport de match
+2018-10-20,Sam,Serie A,Journée 9,Domicile,N 1–1,Juventus,Genoa,Y,LWFW,90,1,0,0,0,11,3,0,0,63,0,0,0,1.4,1.4,0.0,3,0,36,41,87.8,3,38,3,3,1,Rapport de match
+2018-10-23,Mar,Champions Lg,Phase de groupe,Extérieur,V 1–0,it Juventus,eng Manchester Utd,Y,FW,90,0,0,0,0,3,2,0,0,45,1,1,0,0.2,0.2,0.0,4,0,32,38,84.2,3,32,4,0,0,Rapport de match
+2018-10-27,Sam,Serie A,Journée 10,Extérieur,V 2–1,Juventus,Empoli,Y,FW,90,2,0,1,1,5,2,0,0,57,1,0,0,0.9,0.2,0.0,4,0,38,45,84.4,8,35,2,1,0,Rapport de match
+2018-11-03,Sam,Serie A,Journée 11,Domicile,V 3–1,Juventus,Cagliari,Y,FWLW,90,0,1,0,0,5,0,0,0,41,0,0,0,0.5,0.5,0.5,2,1,25,32,78.1,4,26,8,1,1,Rapport de match
+2018-11-07,Mer,Champions Lg,Phase de groupe,Domicile,D 1–2,it Juventus,eng Manchester Utd,Y,FWLW,90,1,0,0,0,8,1,0,0,51,0,0,1,0.5,0.5,0.9,6,0,29,36,80.6,3,39,5,0,0,Rapport de match
+2018-11-11,Dim,Serie A,Journée 12,Extérieur,V 2–0,Juventus,Milan,Y,LWFW,90,1,0,0,0,5,3,0,0,47,0,0,0,0.7,0.7,0.0,5,0,32,39,82.1,6,32,5,6,4,Rapport de match
+2018-11-24,Sam,Serie A,Journée 13,Domicile,V 2–0,Juventus,SPAL,Y,FW,90,1,0,0,0,5,2,0,0,37,0,0,0,0.7,0.7,0.0,3,0,22,30,73.3,1,24,6,1,0,Rapport de match
+2018-11-27,Mar,Champions Lg,Phase de groupe,Domicile,V 1–0,it Juventus,es Valencia,Y,LW,90,0,1,0,0,9,3,0,0,49,1,0,0,0.4,0.4,1.0,4,1,23,31,74.2,1,31,6,3,0,Rapport de match
+2018-12-01,Sam,Serie A,Journée 14,Extérieur,V 3–0,Juventus,Fiorentina,Y,LW,79,1,0,1,1,5,1,1,0,43,0,0,0,1.2,0.4,0.2,6,0,20,29,69.0,3,32,4,1,1,Rapport de match
+2018-12-07,Ven,Serie A,Journée 15,Domicile,V 1–0,Juventus,Inter,Y,FW,90,0,0,0,0,4,1,0,0,39,0,1,0,0.1,0.1,0.1,3,0,23,29,79.3,4,34,5,2,0,Rapport de match
+2018-12-12,Mer,Champions Lg,Phase de groupe,Extérieur,D 1–2,it Juventus,ch Young Boys,Y,FWLW,90,0,1,0,0,6,0,0,0,34,0,0,0,1.0,1.0,0.3,5,1,18,23,78.3,2,29,4,4,3,Rapport de match
+2018-12-15,Sam,Serie A,Journée 16,Extérieur,V 1–0,Juventus,Torino,Y,LWRW,90,1,0,1,1,5,2,1,0,41,1,0,0,1.1,0.3,0.0,7,0,25,29,86.2,8,30,5,3,3,Rapport de match
+2018-12-22,Sam,Serie A,Journée 17,Domicile,V 1–0,Juventus,Roma,Y,LWFW,90,0,0,0,0,10,3,0,0,48,0,0,0,0.8,0.8,0.0,3,0,24,31,77.4,4,31,6,2,1,Rapport de match
+2018-12-26,Mer,Serie A,Journée 18,Extérieur,N 2–2,Juventus,Atalanta,N,FW,26,1,0,0,0,1,1,0,0,8,0,0,0,0.5,0.5,0.0,0,0,5,7,71.4,1,8,0,0,0,Rapport de match
+2018-12-29,Sam,Serie A,Journée 19,Domicile,V 2–1,Juventus,Sampdoria,Y,LWFW,90,2,0,1,1,4,3,0,0,51,0,0,0,0.9,0.1,0.0,6,1,28,37,75.7,3,31,6,6,2,Rapport de match
+2019-01-12,Sam,Coppa Italia,Huitièmes de finale,Extérieur,V 2–0,Juventus,Bologna,N,,29,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Rapport de match
+2019-01-16,Mer,Supercoppa Italiana,Supercoppa Italiana,Terrain neutre,V 1–0,Juventus,Milan,Y,FW,90,1,0,0,0,6,3,0,0,,,0,,,,,,,,,,,,,,,Rapport de match
+2019-01-21,Lun,Serie A,Journée 20,Domicile,V 3–0,Juventus,Chievo,Y,FWLW,90,0,0,0,1,7,1,0,0,47,1,0,0,1.6,0.8,0.1,5,0,30,31,96.8,7,30,4,2,0,Rapport de match
+2019-01-27,Dim,Serie A,Journée 21,Extérieur,V 2–1,Juventus,Lazio,Y,AMFW,90,1,0,1,1,0,0,0,0,39,2,1,1,0.8,0.0,0.1,2,1,20,27,74.1,2,28,7,5,2,Rapport de match
+2019-01-30,Mer,Coppa Italia,Quarts de finale,Extérieur,D 0–3,Juventus,Atalanta,Y,,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Rapport de match
+2019-02-02,Sam,Serie A,Journée 22,Domicile,N 3–3,Juventus,Parma,Y,FW,90,2,1,0,0,10,4,0,0,64,0,1,0,0.7,0.7,0.7,10,0,39,48,81.3,2,57,8,5,3,Rapport de match
+2019-02-10,Dim,Serie A,Journée 23,Extérieur,V 3–0,Juventus,Sassuolo,Y,FW,90,1,1,0,0,4,2,0,0,56,0,0,0,0.4,0.4,0.1,4,2,36,44,81.8,5,33,6,4,2,Rapport de match
+2019-02-15,Ven,Serie A,Journée 24,Domicile,V 3–0,Juventus,Frosinone,Y,FW,63,1,1,0,0,7,2,0,0,32,0,0,0,0.4,0.4,0.3,8,1,16,22,72.7,3,23,3,4,3,Rapport de match
+2019-02-20,Mer,Champions Lg,Huitièmes de finale,Extérieur,D 0–2,it Juventus,es Atlético Madrid,Y,LW,90,0,0,0,0,7,1,0,0,60,0,0,1,0.4,0.4,0.1,8,0,39,44,88.6,1,38,7,8,7,Rapport de match
+2019-02-24,Dim,Serie A,Journée 25,Extérieur,V 1–0,Juventus,Bologna,Y,FWLW,90,0,0,0,0,2,2,0,0,44,0,0,1,0.1,0.1,0.0,2,0,24,32,75.0,3,33,2,2,0,Rapport de match
+2019-03-03,Dim,Serie A,Journée 26,Extérieur,V 2–1,Juventus,Napoli,Y,FW,90,0,0,0,0,2,0,0,0,41,1,0,0,0.1,0.1,0.0,1,1,28,32,87.5,3,22,1,2,2,Rapport de match
+2019-03-12,Mar,Champions Lg,Huitièmes de finale,Domicile,V 3–0,it Juventus,es Atlético Madrid,Y,FW,90,3,0,1,1,4,2,0,0,57,0,0,0,1.4,0.6,0.0,4,1,33,44,75.0,8,39,6,8,6,Rapport de match
+2019-03-22,Ven,UEFA Euro Qualifying,Phase de groupe,Domicile,N 0–0,pt Portugal,ua Ukraine,Y*,FW,90,0,0,0,0,7,3,0,0,,,1,,,,,,,,,,,,,,,Rapport de match
+2019-03-25,Lun,UEFA Euro Qualifying,Phase de groupe,Domicile,N 1–1,pt Portugal,rs Serbie,Y*,FW,29,0,0,0,0,4,2,0,0,,,0,,,,,,,,,,,,,,,Rapport de match
+2019-04-10,Mer,Champions Lg,Quarts de finale,Extérieur,N 1–1,it Juventus,nl Ajax,Y,LWFW,90,1,0,0,0,2,1,0,0,39,0,0,0,0.4,0.4,0.2,3,1,26,32,81.3,3,21,0,1,0,Rapport de match
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2019-04-16,Mar,Champions Lg,Quarts de finale,Domicile,D 1–2,it Juventus,nl Ajax,Y,FW,90,1,0,0,0,6,1,1,0,47,1,2,0,0.5,0.5,0.1,5,0,24,35,68.6,2,29,3,3,2,Rapport de match
+2019-04-20,Sam,Serie A,Journée 33,Domicile,V 2–1,Juventus,Fiorentina,Y,FW,90,0,0,0,0,6,1,0,0,65,0,0,0,0.6,0.6,0.0,5,0,42,52,80.8,7,45,5,4,2,Rapport de match
+2019-04-27,Sam,Serie A,Journée 34,Extérieur,N 1–1,Juventus,Inter,Y,FW,90,1,0,0,0,3,1,0,0,50,0,0,1,0.4,0.4,0.0,2,1,31,38,81.6,2,37,4,4,3,Rapport de match
+2019-05-03,Ven,Serie A,Journée 35,Domicile,N 1–1,Juventus,Torino,Y,FW,90,1,0,0,0,5,2,0,0,44,1,0,0,0.8,0.8,0.1,4,0,26,32,81.3,2,34,5,1,0,Rapport de match
+2019-05-12,Dim,Serie A,Journée 36,Extérieur,D 0–2,Juventus,Roma,Y,FW,90,0,0,0,0,1,0,0,0,57,1,2,0,0.0,0.0,0.4,4,0,41,49,83.7,5,40,3,3,3,Rapport de match
+2019-05-19,Dim,Serie A,Journée 37,Domicile,N 1–1,Juventus,Atalanta,Y,FW,90,0,0,0,0,3,1,1,0,48,0,0,1,0.5,0.5,0.0,2,0,32,38,84.2,2,35,3,3,2,Rapport de match
+2019-06-05,Mer,Ligue des Nations UEFA,Demi-finales,Terrain neutre,V 3–1,pt Portugal,ch Suisse,Y*,FW,90,3,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Rapport de match
+2019-06-09,Dim,Ligue des Nations UEFA,Finale,Terrain neutre,V 1–0,pt Portugal,nl Pays-Bas,Y*,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Rapport de match
+,,,,,32-9-6,,,45/47,,3944,31,10,6,7,235,81,4,1,1891,13,10,9,27.1,21.6,7.8,187,18,1148,1408,81.5,155,1299,182,112,63,

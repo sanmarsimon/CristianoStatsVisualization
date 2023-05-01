@@ -1,0 +1,68 @@
+Date,Jour,Comp,Tour,Tribune,Résultat,Équipe,Adversaire,Début,Pos,Min,Buts,PD,PénM,PénT,Tirs,TC,CJ,CR,Fte,Ftp,HJ,Ctr,TclR,Int,CSC,Préussi,Pcon,Rapport de match
+2016-07-06,Mer,UEFA Euro,Demi-finales,Terrain neutre,V 2–0,pt Portugal,wls Wales,Y*,AM,90,1,1,0,0,9,2,1,0,3,1,0,0,1,0,0,0,0,Rapport de match
+2016-07-10,Dim,UEFA Euro,Finale,Domicile,V 1–0,pt Portugal,fr France,Y*,FW,24,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Rapport de match
+2016-09-10,Sam,La Liga,Journée 3,Domicile,V 5–2,Real Madrid,Osasuna,Y,FW,65,1,0,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,Rapport de match
+2016-09-14,Mer,Champions Lg,Phase de groupe,Domicile,V 2–1,es Real Madrid,pt Sporting CP,Y,FW,90,1,0,0,0,4,2,0,0,0,2,1,0,1,0,0,0,0,Rapport de match
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2016-09-21,Mer,La Liga,Journée 5,Domicile,N 1–1,Real Madrid,Villarreal,Y,FW,90,0,0,0,0,4,2,1,0,3,1,1,1,0,0,0,0,0,Rapport de match
+2016-09-24,Sam,La Liga,Journée 6,Extérieur,N 2–2,Real Madrid,Las Palmas,Y,FW,71,0,0,0,0,6,1,0,0,1,0,1,0,0,0,0,0,0,Rapport de match
+2016-09-27,Mar,Champions Lg,Phase de groupe,Extérieur,N 2–2,es Real Madrid,de Dortmund,Y,FW,90,1,0,0,0,6,3,0,0,0,2,1,2,1,0,0,0,0,Rapport de match
+2016-10-02,Dim,La Liga,Journée 7,Domicile,N 1–1,Real Madrid,Eibar,Y,FW,90,0,1,0,0,8,2,0,0,0,2,2,2,0,1,0,0,0,Rapport de match
+2016-10-07,Ven,WCQ,Premier tour,Domicile,V 6–0,pt Portugal,ad Andorre,Y*,FW,90,4,0,0,0,,,0,0,,,,,,,0,,,Rapport de match
+2016-10-10,Lun,WCQ,Premier tour,Extérieur,V 6–0,pt Portugal,fo Îles Féroé,Y*,FW,90,1,0,0,0,,,0,0,,,,,,,0,,,Rapport de match
+2016-10-15,Sam,La Liga,Journée 8,Extérieur,V 6–1,Real Madrid,Betis,Y,FW,90,1,1,0,0,8,2,0,0,0,3,1,1,1,0,0,0,0,Rapport de match
+2016-10-18,Mar,Champions Lg,Phase de groupe,Domicile,V 5–1,es Real Madrid,pl Legia Warsaw,Y,FW,90,0,2,0,0,9,2,1,0,2,2,1,1,0,1,0,0,0,Rapport de match
+2016-10-23,Dim,La Liga,Journée 9,Domicile,V 2–1,Real Madrid,Athletic Club,Y,FW,90,0,0,0,0,11,2,0,0,0,1,1,2,0,0,0,0,0,Rapport de match
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2016-10-29,Sam,La Liga,Journée 10,Extérieur,V 4–1,Real Madrid,Alavés,Y,FW,90,3,0,1,2,8,4,0,0,0,3,0,0,0,1,0,1,0,Rapport de match
+2016-11-02,Mer,Champions Lg,Phase de groupe,Extérieur,N 3–3,es Real Madrid,pl Legia Warsaw,Y*,LW,90,0,1,0,0,9,2,0,0,2,0,0,1,0,0,0,0,0,Rapport de match
+2016-11-06,Dim,La Liga,Journée 11,Domicile,V 3–0,Real Madrid,Leganés,Y,FW,90,0,0,0,0,3,0,1,0,1,1,2,1,0,0,0,0,0,Rapport de match
+2016-11-13,Dim,WCQ,Premier tour,Domicile,V 4–1,pt Portugal,lv Lettonie,Y*,LM,90,2,0,1,2,,,0,0,,,,,,,0,,,Rapport de match
+2016-11-19,Sam,La Liga,Journée 12,Extérieur,V 3–0,Real Madrid,Atlético Madrid,Y,FW,82,3,0,1,1,5,5,1,0,1,3,1,0,1,0,0,1,0,Rapport de match
+2016-11-22,Mar,Champions Lg,Phase de groupe,Extérieur,V 2–1,es Real Madrid,pt Sporting CP,Y,FW,90,0,1,0,0,2,0,0,0,0,2,2,0,0,0,0,0,0,Rapport de match
+2016-11-26,Sam,La Liga,Journée 13,Domicile,V 2–1,Real Madrid,Sporting Gijón,Y,AM,90,2,0,1,1,7,5,0,0,0,4,1,4,0,0,0,0,0,Rapport de match
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2016-12-03,Sam,La Liga,Journée 14,Extérieur,N 1–1,Real Madrid,Barcelona,Y,FW,90,0,0,0,0,6,3,0,0,1,1,0,0,0,0,0,0,0,Rapport de match
+2016-12-07,Mer,Champions Lg,Phase de groupe,Domicile,N 2–2,es Real Madrid,de Dortmund,Y,FW,90,0,0,0,0,3,1,0,0,1,1,1,1,1,1,0,0,0,Rapport de match
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2017-01-07,Sam,La Liga,Journée 17,Domicile,V 5–0,Real Madrid,Granada,Y,FW,90,1,0,0,0,5,2,0,0,0,2,0,1,0,1,0,0,0,Rapport de match
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2017-01-15,Dim,La Liga,Journée 18,Extérieur,D 1–2,Real Madrid,Sevilla,Y,FW,90,1,0,1,1,5,3,0,0,2,2,1,1,0,1,0,0,0,Rapport de match
+2017-01-18,Mer,Copa del Rey,Quarts de finale,Domicile,D 1–2,Real Madrid,Celta Vigo,Y,,90,0,0,0,0,,,0,0,,,,,,,0,,,Rapport de match
+2017-01-21,Sam,La Liga,Journée 19,Domicile,V 2–1,Real Madrid,Málaga,Y,FW,90,0,0,0,0,4,3,0,0,1,1,4,1,0,0,0,0,0,Rapport de match
+2017-01-25,Mer,Copa del Rey,Quarts de finale,Extérieur,N 2–2,Real Madrid,Celta Vigo,Y,,90,1,0,0,0,,,0,0,,,,,,,0,,,Rapport de match
+2017-01-29,Dim,La Liga,Journée 20,Domicile,V 3–0,Real Madrid,Real Sociedad,Y,FW,90,1,1,0,0,2,1,0,0,1,0,1,3,0,0,0,0,0,Rapport de match
+2017-02-11,Sam,La Liga,Journée 22,Extérieur,V 3–1,Real Madrid,Osasuna,Y,FW,90,1,0,0,0,4,2,0,0,0,1,2,0,1,0,0,0,0,Rapport de match
+2017-02-15,Mer,Champions Lg,Huitièmes de finale,Domicile,V 3–1,es Real Madrid,it Napoli,Y,FW,90,0,1,0,0,3,0,0,0,0,1,3,3,0,1,0,0,0,Rapport de match
+2017-02-18,Sam,La Liga,Journée 23,Domicile,V 2–0,Real Madrid,Espanyol,Y,FW,90,0,0,0,0,3,0,0,0,0,1,3,4,0,0,0,0,0,Rapport de match
+2017-02-22,Mer,La Liga,Journée 16,Extérieur,D 1–2,Real Madrid,Valencia,Y,FW,90,1,0,0,0,9,2,0,0,1,1,2,1,0,0,0,0,0,Rapport de match
+2017-02-26,Dim,La Liga,Journée 24,Extérieur,V 3–2,Real Madrid,Villarreal,Y,FW,90,1,0,1,1,9,1,0,0,0,3,0,3,0,0,0,0,0,Rapport de match
+2017-03-01,Mer,La Liga,Journée 25,Domicile,N 3–3,Real Madrid,Las Palmas,Y,FW,90,2,0,1,1,8,2,1,0,2,2,1,2,0,0,0,0,0,Rapport de match
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2017-03-07,Mar,Champions Lg,Huitièmes de finale,Extérieur,V 3–1,es Real Madrid,it Napoli,Y*,FW,90,0,0,0,0,3,1,0,0,1,3,1,3,0,0,0,0,0,Rapport de match
+2017-03-12,Dim,La Liga,Journée 27,Domicile,V 2–1,Real Madrid,Betis,Y,FW,90,1,0,0,0,6,2,0,0,0,1,3,1,0,0,0,0,0,Rapport de match
+2017-03-18,Sam,La Liga,Journée 28,Extérieur,V 2–1,Real Madrid,Athletic Club,Y,FW,78,0,2,0,0,2,1,0,0,2,2,2,0,0,0,0,0,0,Rapport de match
+2017-03-25,Sam,WCQ,Premier tour,Domicile,V 3–0,pt Portugal,hu Hongrie,Y*,FW,90,2,0,0,0,,,0,0,,,,,,,0,,,Rapport de match
+2017-03-28,Mar,Matchs amicaux (H),Matchs amicaux (H),Domicile,D 2–3,pt Portugal,se Suède,Y*,FW,57,1,0,0,0,,,0,0,,,,,,,0,,,Rapport de match
+2017-04-02,Dim,La Liga,Journée 29,Domicile,V 3–0,Real Madrid,Alavés,Y,FW,90,0,1,0,0,7,1,0,0,1,1,1,1,0,1,0,0,0,Rapport de match
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2017-04-08,Sam,La Liga,Journée 31,Domicile,N 1–1,Real Madrid,Atlético Madrid,Y,FW,90,0,0,0,0,4,2,0,0,0,0,0,3,0,0,0,0,0,Rapport de match
+2017-04-12,Mer,Champions Lg,Quarts de finale,Extérieur,V 2–1,es Real Madrid,de Bayern Munich,Y,FW,90,2,0,0,0,8,4,0,0,0,3,0,0,0,0,0,0,0,Rapport de match
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2017-04-18,Mar,Champions Lg,Quarts de finale,Domicile,V 4–2,es Real Madrid,de Bayern Munich,Y,FW,120,3,0,0,0,4,1,0,0,1,2,0,2,0,0,0,0,0,Rapport de match
+2017-04-23,Dim,La Liga,Journée 33,Domicile,D 2–3,Real Madrid,Barcelona,Y,FW,90,0,0,0,0,8,3,0,0,0,2,2,2,0,2,0,0,0,Rapport de match
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2017-04-29,Sam,La Liga,Journée 35,Domicile,V 2–1,Real Madrid,Valencia,Y,FW,90,1,0,0,1,8,2,0,0,1,1,0,2,0,0,0,0,0,Rapport de match
+2017-05-02,Mar,Champions Lg,Demi-finales,Domicile,V 3–0,es Real Madrid,es Atlético Madrid,Y,FW,90,3,0,0,0,5,3,0,0,1,4,0,1,0,0,0,0,0,Rapport de match
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2017-05-10,Mer,Champions Lg,Demi-finales,Extérieur,D 1–2,es Real Madrid,es Atlético Madrid,Y,FW,90,0,0,0,0,6,2,0,0,1,3,2,2,0,0,0,0,0,Rapport de match
+2017-05-14,Dim,La Liga,Journée 37,Domicile,V 4–1,Real Madrid,Sevilla,Y,FW,90,2,0,0,0,4,3,0,0,0,3,1,0,0,1,0,0,0,Rapport de match
+2017-05-17,Mer,La Liga,Journée 21,Extérieur,V 4–1,Real Madrid,Celta Vigo,Y,FW,83,2,0,0,0,3,2,0,0,1,1,0,1,0,0,0,0,0,Rapport de match
+2017-05-21,Dim,La Liga,Journée 38,Extérieur,V 2–0,Real Madrid,Málaga,Y,FW,90,1,0,0,0,3,2,0,0,1,0,1,0,0,0,0,0,0,Rapport de match
+2017-06-03,Sam,Champions Lg,Finale,Extérieur,V 4–1,es Real Madrid,it Juventus,Y,FW,90,2,0,0,0,6,2,0,0,0,1,0,2,0,0,0,0,0,Rapport de match
+2017-06-09,Ven,WCQ,Premier tour,Extérieur,V 3–0,pt Portugal,lv Lettonie,Y*,FW,90,2,1,0,0,,,0,0,,,,,,,0,,,Rapport de match
+2017-06-18,Dim,Coupe des confédérations FIFA,Phase de groupe,Terrain neutre,N 2–2,pt Portugal,mx Mexique,Y*,FW,90,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Rapport de match
+2017-06-21,Mer,Coupe des confédérations FIFA,Phase de groupe,Terrain neutre,V 1–0,pt Portugal,ru Russie,Y*,FW,90,1,0,0,0,6,3,0,0,0,1,0,2,0,0,0,0,0,Rapport de match
+2017-06-24,Sam,Coupe des confédérations FIFA,Phase de groupe,Terrain neutre,V 4–0,pt Portugal,nz Nouvelle-Zélande,Y*,FW,66,1,0,1,1,5,3,0,0,0,2,0,0,0,0,0,0,0,Rapport de match
+2017-06-28,Mer,Coupe des confédérations FIFA,Demi-finales,Terrain neutre,N 0 (0)–0 (3),pt Portugal,cl Chili,Y*,FW,120,0,0,0,0,5,1,0,0,0,1,0,4,0,0,0,0,0,Rapport de match
+,,,,,38-12-6,,,56/56,,4906,53,14,8,11,256,94,6,0,32,77,46,61,7,11,0,2,0,

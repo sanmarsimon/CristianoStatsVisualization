@@ -1,0 +1,40 @@
+Date,Jour,Comp,Tour,Tribune,Résultat,Équipe,Adversaire,Début,Pos,Min,Buts,PD,PénM,PénT,Tirs,TC,CJ,CR,Touches,Tcl,Int,Balles contrées,xG,npxG,xAG,AMT,AMB,Cmp,Att,Cmp%,PrgP,Balle au pied,PrgC,Att,Succ,Rapport de match
+2022-06-02,Jeu,Ligue des Nations UEFA,League A,Extérieur,N 1–1,pt Portugal,es Espagne,N,,29,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Rapport de match
+2022-06-05,Dim,Ligue des Nations UEFA,League A,Domicile,V 4–0,pt Portugal,ch Suisse,Y*,FW,90,2,1,0,0,7,5,0,0,,,0,,,,,,,,,,,,,,,Rapport de match
+2022-06-09,Jeu,Ligue des Nations UEFA,League A,Domicile,V 2–0,pt Portugal,cz République tchèque,Y*,FW,90,0,0,0,0,3,2,1,0,,,0,,,,,,,,,,,,,,,Rapport de match
+2022-08-07,Dim,Premier League,Journée 1,Domicile,D 1–2,Manchester Utd,Brighton,N,FW,38,0,0,0,0,1,0,0,0,12,0,0,0,0.0,0.0,0.0,1,0,8,9,88.9,1,4,1,0,0,Rapport de match
+2022-08-13,Sam,Premier League,Journée 2,Extérieur,D 0–4,Manchester Utd,Brentford,Y,FW,90,0,0,0,0,6,2,0,0,40,0,0,0,0.3,0.3,0.2,3,0,26,27,96.3,2,19,1,2,0,Rapport de match
+2022-08-22,Lun,Premier League,Journée 3,Domicile,V 2–1,Manchester Utd,Liverpool,N,LW,5,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,1,0,0,Rapport de match
+2022-08-27,Sam,Premier League,Journée 4,Extérieur,V 1–0,Manchester Utd,Southampton,N,FW,23,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,5,10,50.0,2,4,1,1,0,Rapport de match
+2022-09-01,Jeu,Premier League,Journée 5,Extérieur,V 1–0,Manchester Utd,Leicester City,N,FW,23,0,0,0,0,2,0,0,0,16,0,0,0,0.2,0.2,0.1,2,0,8,13,61.5,1,5,0,1,0,Rapport de match
+2022-09-04,Dim,Premier League,Journée 6,Domicile,V 3–1,Manchester Utd,Arsenal,N,FW,33,0,0,0,0,2,0,0,0,15,0,0,0,0.2,0.2,0.0,0,0,7,12,58.3,1,9,1,0,0,Rapport de match
+2022-09-08,Jeu,Europa Lg,Phase de groupe,Domicile,D 0–1,eng Manchester Utd,es Real Sociedad,Y,FW,90,0,0,0,0,4,0,0,0,35,0,0,0,0.3,0.3,0.0,1,0,19,23,82.6,3,27,1,4,1,Rapport de match
+2022-09-15,Jeu,Europa Lg,Phase de groupe,Extérieur,V 2–0,eng Manchester Utd,md Sheriff Tiraspol,Y,FW,80,1,0,1,1,2,0,0,0,52,0,0,0,0.9,0.1,0.0,0,0,34,41,82.9,4,32,2,2,0,Rapport de match
+2022-09-24,Sam,Ligue des Nations UEFA,League A,Extérieur,V 4–0,pt Portugal,cz République tchèque,Y*,FW,90,0,1,0,0,4,0,0,0,,,0,,,,,,,,,,,,,,,Rapport de match
+2022-09-27,Mar,Ligue des Nations UEFA,League A,Domicile,D 0–1,pt Portugal,es Espagne,Y*,FW,90,0,0,0,0,2,2,0,0,,,0,,,,,,,,,,,,,,,Rapport de match
+2022-10-06,Jeu,Europa Lg,Phase de groupe,Extérieur,V 3–2,eng Manchester Utd,cy AC Omonia,Y,FW,90,0,1,0,0,8,1,0,0,46,1,0,0,1.0,1.0,1.3,7,1,25,29,86.2,3,31,3,2,0,Rapport de match
+2022-10-09,Dim,Premier League,Journée 10,Extérieur,V 2–1,Manchester Utd,Everton,N,FW,62,1,0,0,0,3,2,0,0,32,1,0,0,0.4,0.4,0.1,2,0,18,23,78.3,1,17,3,2,2,Rapport de match
+2022-10-13,Jeu,Europa Lg,Phase de groupe,Domicile,V 1–0,eng Manchester Utd,cy AC Omonia,Y,FW,90,0,0,0,0,7,2,0,0,30,0,0,0,0.9,0.9,0.1,5,0,20,23,87.0,4,19,0,0,0,Rapport de match
+2022-10-16,Dim,Premier League,Journée 11,Domicile,N 0–0,Manchester Utd,Newcastle Utd,Y,FW,71,0,0,0,0,1,0,1,0,21,0,0,0,0.1,0.1,0.0,0,0,11,19,57.9,2,8,1,0,0,Rapport de match
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-10-27,Jeu,Europa Lg,Phase de groupe,Domicile,V 3–0,eng Manchester Utd,md Sheriff Tiraspol,Y,FW,90,1,0,0,0,7,3,0,0,50,0,0,0,1.2,1.2,0.1,2,1,37,40,92.5,5,26,1,2,1,Rapport de match
+2022-10-30,Dim,Premier League,Journée 14,Domicile,V 1–0,Manchester Utd,West Ham,Y,FW,90,0,0,0,0,6,1,0,0,40,0,0,0,0.4,0.4,0.0,0,0,22,28,78.6,1,16,0,3,2,Rapport de match
+2022-11-03,Jeu,Europa Lg,Phase de groupe,Extérieur,V 1–0,eng Manchester Utd,es Real Sociedad,Y,FWRW,90,0,1,0,0,2,0,1,0,31,0,0,1,0.4,0.4,0.2,1,1,14,22,63.6,4,12,1,1,0,Rapport de match
+2022-11-06,Dim,Premier League,Journée 15,Extérieur,D 1–3,Manchester Utd,Aston Villa,Y*,FW,90,0,0,0,0,3,1,1,0,23,1,1,0,0.2,0.2,0.0,2,0,15,18,83.3,1,10,0,0,0,Rapport de match
+2022-11-24,Jeu,World Cup,Phase de groupe,Terrain neutre,V 3–2,pt Portugal,gh Ghana,Y*,FW,87,1,0,1,1,3,1,0,0,29,0,0,0,1.2,0.4,0.0,3,2,15,19,78.9,1,15,4,2,0,Rapport de match
+2022-11-28,Lun,World Cup,Phase de groupe,Terrain neutre,V 2–0,pt Portugal,uy Uruguay,Y*,FW,81,0,0,0,0,3,0,0,0,47,0,0,0,0.1,0.1,0.1,5,0,30,40,75.0,3,25,2,1,0,Rapport de match
+2022-12-02,Ven,World Cup,Phase de groupe,Terrain neutre,D 1–2,pt Portugal,kr Corée du Sud,Y*,FW,64,0,0,0,0,2,0,0,0,25,0,0,0,0.3,0.3,0.0,0,0,16,20,80.0,0,11,1,1,0,Rapport de match
+2022-12-06,Mar,World Cup,Huitièmes de finale,Terrain neutre,V 6–1,pt Portugal,ch Suisse,N,FWLW,18,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,2,5,0,0,0,Rapport de match
+2022-12-10,Sam,World Cup,Quarts de finale,Terrain neutre,D 0–1,pt Portugal,ma Maroc,N,FW,40,0,0,0,0,1,1,0,0,10,0,0,0,0.0,0.0,0.0,1,0,3,6,50.0,0,7,1,1,0,Rapport de match
+2023-01-22,Dim,Pro League,Journée 14,Domicile,V 1–0,Al-Nassr,Al-Ettifaq,Y*,FW,90,0,0,0,0,4,1,0,0,,,0,,,,,,,,,,,,,,,Rapport de match
+2023-02-03,Ven,Pro League,Journée 15,Extérieur,N 2–2,Al-Nassr,Al-Fateh,Y*,FW,90,1,0,1,1,4,1,1,0,,,1,,,,,,,,,,,,,,,Rapport de match
+2023-02-09,Jeu,Pro League,Journée 16,Extérieur,V 4–0,Al-Nassr,Al-Wehda,Y*,FW,90,4,0,1,1,9,6,0,0,,,0,,,,,,,,,,,,,,,Rapport de match
+2023-02-17,Ven,Pro League,Journée 17,Domicile,V 2–1,Al-Nassr,Al-Taawoun,Y*,FW,90,0,2,0,0,4,3,0,0,,,0,,,,,,,,,,,,,,,Rapport de match
+2023-02-25,Sam,Pro League,Journée 18,Extérieur,V 3–0,Al-Nassr,Damac,Y*,FW,90,3,0,1,1,6,3,0,0,,,0,,,,,,,,,,,,,,,Rapport de match
+2023-03-03,Ven,Pro League,Journée 19,Domicile,V 3–1,Al-Nassr,Al-Batin,Y*,FW,90,0,0,0,0,7,1,0,0,,,0,,,,,,,,,,,,,,,Rapport de match
+2023-03-09,Jeu,Pro League,Journée 20,Extérieur,D 0–1,Al-Nassr,Al-Ittihad,Y*,FW,90,0,0,0,0,3,1,0,0,,,0,,,,,,,,,,,,,,,Rapport de match
+2023-03-18,Sam,Pro League,Journée 21,Domicile,V 2–1,Al-Nassr,Abha,Y*,FW,90,1,0,0,0,4,2,0,0,,,0,,,,,,,,,,,,,,,Rapport de match
+2023-03-23,Jeu,Qualifications Euro,Group stage,Domicile,V 4–0,pt Portugal,li Liechtenstein,Y*,FW,77,2,0,1,1,6,3,0,0,,,0,,,,,,,,,,,,,,,Rapport de match
+2023-03-26,Dim,Qualifications Euro,Group stage,Extérieur,V 6–0,pt Portugal,lu Luxembourg,Y*,FW,63,2,0,0,0,3,2,1,0,,,0,,,,,,,,,,,,,,,Rapport de match
+2023-04-04,Mar,Pro League,Journée 22,Extérieur,V 5–0,Al-Nassr,Al-Adalah,Y*,FW,90,2,0,1,1,2,2,0,0,,,0,,,,,,,,,,,,,,,Rapport de match
+,,,,,26-3-8,,,28/37,,2684,21,6,7,7,133,48,6,0,582,3,2,1,8.3,6.7,2.3,36,5,338,430,78.6,41,304,25,25,6,
